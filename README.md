@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... 
 -->
 
-- 🔭 I’m currently working on ... Android Development (Kotlin)
-- 🌱 I’m currently learning ... Android Development (Kotlin and Flutter)
+- 🌱 I’m currently learning ... ML using python
 
 
 
